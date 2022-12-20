@@ -64,6 +64,8 @@ developing your own process.
 
   - How I debugged:
 
+  I used the client to show me the error, used console. sent the request looked at errors from the server and client console.
+
 - Update the number of likes for a toy
 
   - How I debugged:
@@ -71,3 +73,4 @@ developing your own process.
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+  found error uninit const in server for post request
